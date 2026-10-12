@@ -6,13 +6,13 @@
 
 ### About
 
-Security researcher from Bogota, Colombia, focused on web application security, API security, and mobile application analysis. Active bug bounty hunter on HackerOne with 97 vulnerabilities found across multiple programs.
+Security researcher from Bogota, Colombia, focused on web application security, API security, and mobile application analysis. Active bug bounty hunter on HackerOne.
 
-### Stats
+### HackerOne
 
-| Platform | Handle | Reputation | Vulns Found |
-|----------|--------|-----------|-------------|
-| HackerOne | [madara_](https://hackerone.com/madara_) | 162 | 97 |
+| Platform | Handle | Reputation |
+|----------|--------|-----------|
+| HackerOne | [madara_](https://hackerone.com/madara_) | 162 |
 
 ### Focus Areas
 
